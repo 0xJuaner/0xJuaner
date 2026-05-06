@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0xJuaner
-- 🌱 I’m currently learning C at 42 Berlin
+- 🌱 I’m currently learning C, C++, and beyond at 42 Berlin
 - 💞️ I’m looking to collaborate on cool projects
 
 <!---
